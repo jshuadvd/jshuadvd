@@ -1,4 +1,4 @@
-##Hi, I'm Joshua a Creative Technologist | CTO 👾👋
+## Hi, I'm Joshua a Creative Technologist | CTO 👾👋
 
 I architect transformative digital solutions that push boundaries and reimagine possibilities. I possess a deep expertise across leading-edge technology and a passion for crafting immersive user experiences that inform, engage and empower.
 
