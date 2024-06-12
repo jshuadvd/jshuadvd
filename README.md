@@ -1,6 +1,6 @@
 Siyo, I'm [Joshua](https://linkedin.com/in/joshuasatterfield) a Digital architect & Creative Technologist crafting AI powered experiences that push boundaries. Passionate about seamless UI/UX, scalable systems, & technology's ability to unlock new dimensions of human potential. 👾 👋
 
-I architect transformative digital solutions that push boundaries and reimagine possibilities. I possess a deep expertise across leading-edge technology and a passion for crafting immersive user experiences that inform, engage and empower.
+I architect transformative digital solutions that transcend limits and reimagine possibilities. I possess a deep expertise across leading-edge technology and a passion for crafting immersive user experiences that inform, engage and empower.
 
 Proficient in full-stack development, cloud infrastructure, AI/ML, & blockchain, I employ strategic design thinking to solve multidimensional problems. The platforms and products I envision enable smarter decisions, richer insights, and more meaningful connections for millions worldwide.
 
